@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 import time
 
-# .env ファイルをロードして環境変数へ反映
+# .env ファイルをロード
 from dotenv import load_dotenv
 import os
 
